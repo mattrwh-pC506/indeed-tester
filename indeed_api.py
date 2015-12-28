@@ -26,7 +26,6 @@ class IndeedClient:
         raw = True if format == 'xml' else args.get('raw', False)
         args.update({'v': self.version, 'publisher': self.publisher, 'format': format})
         r = requests.get(endpoint, params = args)
-        print (r.url)
         return r.json() if not raw else r.content
 
     def __valid_args(self, required_fields, args):

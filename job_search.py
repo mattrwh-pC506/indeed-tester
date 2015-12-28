@@ -49,15 +49,15 @@ if __name__ == '__main__':
 
         results_name = "location_{}_radius_{}_query_{}".format(location, radius, query)
         results_name = "".join(x for x in results_name if x.isalnum())
-        xml_file = "./results/{}.xml".format(results_name)
-        csv_file = "./results/{}.csv".format(results_name)
+        xml_file = "./results/xml/{}.xml".format(results_name)
+        csv_file = "./results/csv/{}.csv".format(results_name)
 
         try:
                 os.remove(xml_file)
         except:
                 pass
 
-        f = open('job_search.xml', 'wb')
+        f = open(xml_file, 'wb')
         f.write(ET.tostring(data))
         f.close()
 
@@ -66,6 +66,9 @@ if __name__ == '__main__':
         except:
                 pass
 
-        converter = xml2csv("job_search.xml", csv_file, encoding="utf-8")
+        converter = xml2csv(xml_file, csv_file, encoding="utf-8")
         converter.convert(tag="result")
-        print ("Your results have been saved in ./{}".format(csv_file))
+        print ("2 files have been generated")
+        print ("-----------------------------------------------------------")
+        print (csv_file)
+        print (xml_file)
