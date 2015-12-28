@@ -1,0 +1,413 @@
+<response version="2">
+<query>title: (((Retail) OR (Salespersons)))</query>
+    <location>Newark, NJ</location>
+<dupefilter>true</dupefilter>
+    <highlight>false</highlight>
+    <totalresults>19</totalresults>
+    <start>1</start>
+    <end>19</end>
+    <radius>2</radius>
+    <pageNumber>0</pageNumber>
+    <results>
+        
+                <result>
+                    <jobtitle>Retail Sales Consultant</jobtitle>
+                    <company>A Wireless / Verizon Wireless Premium Retailer</company>
+                    <city>Newark</city>
+                    <state>NJ</state>
+                    <country>US</country>
+                    <formattedLocation>Newark, NJ</formattedLocation>
+                    <source>Indeed</source>
+                    <date>Mon, 21 Dec 2015 14:11:19 GMT</date>
+                    <snippet>Minimum of one year of retail sales experience. We currently need a full-time Sales Consultant.When a customer enters an A Wireless retail outlet, they are...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=800fc75d5eb5da23&amp;qd=m1xOB94XTCm6mLs-w7aewTOvHlczHMA9OWh6KD5D6VHKk3pDTyhHp5-2cqd1J3Scbd_EzAfu4daW0PswHQ0EDMXSmLpUnNc6TgruqvNDUaN3qczy2pnrStJlL7F9p0kPTeYT-3oKkhehNya3GO3AgiV0jK6AT3k-HAt-7I8D_QM1Vu4aS9dH_tvzuwb-B6Jr&amp;indpubnum=4336336693914377&amp;atk=1a7kk8m0v5ud1at3</url>
+                    <onmousedown>indeed_clk(this, '8756');</onmousedown>
+                    <jobkey>800fc75d5eb5da23</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>Newark, NJ</formattedLocationFull>
+                    <formattedRelativeTime>7 days ago</formattedRelativeTime>
+                    <noUniqueUrl>true</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Weekend Retail Sales Representative - Electronics - Union, NJ</jobtitle>
+                    <company>ActionLink</company>
+                    <city>Newark</city>
+                    <state>NJ</state>
+                    <country>US</country>
+                    <formattedLocation>Newark, NJ</formattedLocation>
+                    <source>ActionLink</source>
+                    <date>Fri, 04 Dec 2015 06:52:19 GMT</date>
+                    <snippet>We are seeking a Weekend Computer Retail Sales Specialist in your area to join our team! Electronics, merchandising, merchandiser, merchandise, set, reset,...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=92493216a5670096&amp;qd=m1xOB94XTCm6mLs-w7aewTOvHlczHMA9OWh6KD5D6VHKk3pDTyhHp5-2cqd1J3Scbd_EzAfu4daW0PswHQ0EDMXSmLpUnNc6TgruqvNDUaN3qczy2pnrStJlL7F9p0kPTeYT-3oKkhehNya3GO3AgiV0jK6AT3k-HAt-7I8D_QM1Vu4aS9dH_tvzuwb-B6Jr&amp;indpubnum=4336336693914377&amp;atk=1a7kk8m0v5ud1at3</url>
+                    <onmousedown>indeed_clk(this, '8756');</onmousedown>
+                    <jobkey>92493216a5670096</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>Newark, NJ</formattedLocationFull>
+                    <formattedRelativeTime>24 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>M-Retail Sales Associate</jobtitle>
+                    <company>MetroPCS</company>
+                    <city>Newark</city>
+                    <state>NJ</state>
+                    <country>US</country>
+                    <formattedLocation>Newark, NJ</formattedLocation>
+                    <source>MetroPCS</source>
+                    <date>Fri, 11 Dec 2015 17:37:04 GMT</date>
+                    <snippet>Retail Sales Associate. Customers visit your retail store&#8212;some may be browsing, and some may be ready to buy....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=8cf7054622ba2d11&amp;qd=m1xOB94XTCm6mLs-w7aewTOvHlczHMA9OWh6KD5D6VHKk3pDTyhHp5-2cqd1J3Scbd_EzAfu4daW0PswHQ0EDMXSmLpUnNc6TgruqvNDUaN3qczy2pnrStJlL7F9p0kPTeYT-3oKkhehNya3GO3AgiV0jK6AT3k-HAt-7I8D_QM1Vu4aS9dH_tvzuwb-B6Jr&amp;indpubnum=4336336693914377&amp;atk=1a7kk8m0v5ud1at3</url>
+                    <onmousedown>indeed_clk(this, '8756');</onmousedown>
+                    <jobkey>8cf7054622ba2d11</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>Newark, NJ</formattedLocationFull>
+                    <formattedRelativeTime>16 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Supervisor for Retail Location</jobtitle>
+                    <company>Kieffer Technology</company>
+                    <city>Newark</city>
+                    <state>NJ</state>
+                    <country>US</country>
+                    <formattedLocation>Newark, NJ</formattedLocation>
+                    <source>Kieffer Technology</source>
+                    <date>Mon, 14 Dec 2015 07:38:37 GMT</date>
+                    <snippet>Our clients?ranging from financial institutions to multinational corporations to government agencies?come to us for guidance when they?re operating in</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=72f53ffcfbaab54f&amp;qd=m1xOB94XTCm6mLs-w7aewTOvHlczHMA9OWh6KD5D6VHKk3pDTyhHp5-2cqd1J3Scbd_EzAfu4daW0PswHQ0EDMXSmLpUnNc6TgruqvNDUaN3qczy2pnrStJlL7F9p0kPTeYT-3oKkhehNya3GO3AgiV0jK6AT3k-HAt-7I8D_QM1Vu4aS9dH_tvzuwb-B6Jr&amp;indpubnum=4336336693914377&amp;atk=1a7kk8m0v5ud1at3</url>
+                    <onmousedown>indeed_clk(this, '8756');</onmousedown>
+                    <jobkey>72f53ffcfbaab54f</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>Newark, NJ</formattedLocationFull>
+                    <formattedRelativeTime>14 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Inventory Associate - Retail Warehouse Stockroom - Entry Level Customer Service</jobtitle>
+                    <company>WIS International</company>
+                    <city>Newark</city>
+                    <state>NJ</state>
+                    <country>US</country>
+                    <formattedLocation>Newark, NJ</formattedLocation>
+                    <source>WIS International</source>
+                    <date>Fri, 25 Dec 2015 20:35:00 GMT</date>
+                    <snippet>WIS International remains one of the world&#8217;s leading inventory and retail service providers. WIS International is hiring Retail Inventory Associates to help in...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=c358192c4e3d95de&amp;qd=m1xOB94XTCm6mLs-w7aewTOvHlczHMA9OWh6KD5D6VHKk3pDTyhHp5-2cqd1J3Scbd_EzAfu4daW0PswHQ0EDMXSmLpUnNc6TgruqvNDUaN3qczy2pnrStJlL7F9p0kPTeYT-3oKkhehNya3GO3AgiV0jK6AT3k-HAt-7I8D_QM1Vu4aS9dH_tvzuwb-B6Jr&amp;indpubnum=4336336693914377&amp;atk=1a7kk8m0v5ud1at3</url>
+                    <onmousedown>indeed_clk(this, '8756');</onmousedown>
+                    <jobkey>c358192c4e3d95de</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>Newark, NJ</formattedLocationFull>
+                    <formattedRelativeTime>2 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Inventory Associate - Retail Warehouse Stockroom - Entry Level Customer Service</jobtitle>
+                    <company>WIS International</company>
+                    <city>Harrison</city>
+                    <state>NJ</state>
+                    <country>US</country>
+                    <formattedLocation>Harrison, NJ</formattedLocation>
+                    <source>WIS International</source>
+                    <date>Mon, 28 Dec 2015 02:41:00 GMT</date>
+                    <snippet>WIS International remains one of the world&#8217;s leading inventory and retail service providers. WIS International is hiring Retail Inventory Associates to help in...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=c5e005c485a9f816&amp;qd=m1xOB94XTCm6mLs-w7aewTOvHlczHMA9OWh6KD5D6VHKk3pDTyhHp5-2cqd1J3Scbd_EzAfu4daW0PswHQ0EDMXSmLpUnNc6TgruqvNDUaN3qczy2pnrStJlL7F9p0kPTeYT-3oKkhehNya3GO3AgiV0jK6AT3k-HAt-7I8D_QM1Vu4aS9dH_tvzuwb-B6Jr&amp;indpubnum=4336336693914377&amp;atk=1a7kk8m0v5ud1at3</url>
+                    <onmousedown>indeed_clk(this, '8756');</onmousedown>
+                    <jobkey>c5e005c485a9f816</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>Harrison, NJ</formattedLocationFull>
+                    <formattedRelativeTime>13 hours ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Part Time &#8211; Field Retail Merchandising Representative - Entry Level Customer Service</jobtitle>
+                    <company>WIS International</company>
+                    <city>Newark</city>
+                    <state>NJ</state>
+                    <country>US</country>
+                    <formattedLocation>Newark, NJ</formattedLocation>
+                    <source>WIS International</source>
+                    <date>Sat, 19 Dec 2015 20:39:51 GMT</date>
+                    <snippet>Part Time Retail Merchandisers don&#8217;t need experience. WIS International remains one of the world&#8217;s leading inventory and retail service providers....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=e493131366783fa8&amp;qd=m1xOB94XTCm6mLs-w7aewTOvHlczHMA9OWh6KD5D6VHKk3pDTyhHp5-2cqd1J3Scbd_EzAfu4daW0PswHQ0EDMXSmLpUnNc6TgruqvNDUaN3qczy2pnrStJlL7F9p0kPTeYT-3oKkhehNya3GO3AgiV0jK6AT3k-HAt-7I8D_QM1Vu4aS9dH_tvzuwb-B6Jr&amp;indpubnum=4336336693914377&amp;atk=1a7kk8m0v5ud1at3</url>
+                    <onmousedown>indeed_clk(this, '8756');</onmousedown>
+                    <jobkey>e493131366783fa8</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>Newark, NJ</formattedLocationFull>
+                    <formattedRelativeTime>8 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Territory Manager - Retail</jobtitle>
+                    <company>Valspar</company>
+                    <city>Newark</city>
+                    <state>NJ</state>
+                    <country>US</country>
+                    <formattedLocation>Newark, NJ</formattedLocation>
+                    <source>CareerBuilder</source>
+                    <date>Wed, 23 Dec 2015 01:44:45 GMT</date>
+                    <snippet>Retail Territory Manager Responsibilities. Assist retail customers with product purchase. Valspar is currently seeking a Retail Territory Manager in the Clinton...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=675bb26deb2b6805&amp;qd=m1xOB94XTCm6mLs-w7aewTOvHlczHMA9OWh6KD5D6VHKk3pDTyhHp5-2cqd1J3Scbd_EzAfu4daW0PswHQ0EDMXSmLpUnNc6TgruqvNDUaN3qczy2pnrStJlL7F9p0kPTeYT-3oKkhehNya3GO3AgiV0jK6AT3k-HAt-7I8D_QM1Vu4aS9dH_tvzuwb-B6Jr&amp;indpubnum=4336336693914377&amp;atk=1a7kk8m0v5ud1at3</url>
+                    <onmousedown>indeed_clk(this, '8756');</onmousedown>
+                    <jobkey>675bb26deb2b6805</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>Newark, NJ</formattedLocationFull>
+                    <formattedRelativeTime>5 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Assistant Store Manager - Retail Sales / Customer Service - Newark</jobtitle>
+                    <company>Extra Space Storage</company>
+                    <city>Newark</city>
+                    <state>NJ</state>
+                    <country>US</country>
+                    <formattedLocation>Newark, NJ</formattedLocation>
+                    <source>Extra Space Storage</source>
+                    <date>Wed, 16 Dec 2015 01:44:17 GMT</date>
+                    <snippet>Great retail sales environment without the retail hours! It is retail, so you will get the chance to sell/upsell high quality retail merchandise such as boxes,...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=f07885f3abf28d70&amp;qd=m1xOB94XTCm6mLs-w7aewTOvHlczHMA9OWh6KD5D6VHKk3pDTyhHp5-2cqd1J3Scbd_EzAfu4daW0PswHQ0EDMXSmLpUnNc6TgruqvNDUaN3qczy2pnrStJlL7F9p0kPTeYT-3oKkhehNya3GO3AgiV0jK6AT3k-HAt-7I8D_QM1Vu4aS9dH_tvzuwb-B6Jr&amp;indpubnum=4336336693914377&amp;atk=1a7kk8m0v5ud1at3</url>
+                    <onmousedown>indeed_clk(this, '8756');</onmousedown>
+                    <jobkey>f07885f3abf28d70</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>Newark, NJ 07112</formattedLocationFull>
+                    <formattedRelativeTime>12 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>New Jersey: Retail Merchandiser, Newark, NJ</jobtitle>
+                    <company>LEGO</company>
+                    <city>Newark</city>
+                    <state>NJ</state>
+                    <country>US</country>
+                    <formattedLocation>Newark, NJ</formattedLocation>
+                    <source>Lego</source>
+                    <date>Thu, 08 Oct 2015 09:01:52 GMT</date>
+                    <snippet>Retail merchandising experience preferred. We are always looking for talented Retail Merchandisers! Representing the LEGO&#174; Brand with best placement in all...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=d3c7cd1eb66fd39a&amp;qd=m1xOB94XTCm6mLs-w7aewTOvHlczHMA9OWh6KD5D6VHKk3pDTyhHp5-2cqd1J3Scbd_EzAfu4daW0PswHQ0EDMXSmLpUnNc6TgruqvNDUaN3qczy2pnrStJlL7F9p0kPTeYT-3oKkhehNya3GO3AgiV0jK6AT3k-HAt-7I8D_QM1Vu4aS9dH_tvzuwb-B6Jr&amp;indpubnum=4336336693914377&amp;atk=1a7kk8m0v5ud1at3</url>
+                    <onmousedown>indeed_clk(this, '8756');</onmousedown>
+                    <jobkey>d3c7cd1eb66fd39a</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>Newark, NJ</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Bilingual Spanish Required Retail Sales Consultant Essex\Hudson\Union County HIT</jobtitle>
+                    <company>AT&amp;T</company>
+                    <city>Newark</city>
+                    <state>NJ</state>
+                    <country>US</country>
+                    <formattedLocation>Newark, NJ</formattedLocation>
+                    <source>AT&amp;T</source>
+                    <date>Mon, 30 Nov 2015 09:58:00 GMT</date>
+                    <snippet>There are retail jobs, and there are retail careers. As a Retail Sales Consultant, you&#8217;ll belong to a supportive team in a fast-paced environment....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=f8869e731d963fe0&amp;qd=m1xOB94XTCm6mLs-w7aewTOvHlczHMA9OWh6KD5D6VHKk3pDTyhHp5-2cqd1J3Scbd_EzAfu4daW0PswHQ0EDMXSmLpUnNc6TgruqvNDUaN3qczy2pnrStJlL7F9p0kPTeYT-3oKkhehNya3GO3AgiV0jK6AT3k-HAt-7I8D_QM1Vu4aS9dH_tvzuwb-B6Jr&amp;indpubnum=4336336693914377&amp;atk=1a7kk8m0v5ud1at3</url>
+                    <onmousedown>indeed_clk(this, '8756');</onmousedown>
+                    <jobkey>f8869e731d963fe0</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>Newark, NJ</formattedLocationFull>
+                    <formattedRelativeTime>28 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Retail Store Shift Supervisor</jobtitle>
+                    <company>CVS Health</company>
+                    <city>Newark</city>
+                    <state>NJ</state>
+                    <country>US</country>
+                    <formattedLocation>Newark, NJ</formattedLocation>
+                    <source>CVS Health</source>
+                    <date>Sun, 04 Oct 2015 14:43:21 GMT</date>
+                    <snippet>Hourly Retail, Retail Store Manager. Previous retail experience Education:. As the nation's largest pharmacy health care provider, we offer a wide range of...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=bec3dd9986c8f204&amp;qd=m1xOB94XTCm6mLs-w7aewTOvHlczHMA9OWh6KD5D6VHKk3pDTyhHp5-2cqd1J3Scbd_EzAfu4daW0PswHQ0EDMXSmLpUnNc6TgruqvNDUaN3qczy2pnrStJlL7F9p0kPTeYT-3oKkhehNya3GO3AgiV0jK6AT3k-HAt-7I8D_QM1Vu4aS9dH_tvzuwb-B6Jr&amp;indpubnum=4336336693914377&amp;atk=1a7kk8m0v5ud1at3</url>
+                    <onmousedown>indeed_clk(this, '8756');</onmousedown>
+                    <jobkey>bec3dd9986c8f204</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>Newark, NJ</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Account Executive - Retail/Commercial Sales - East</jobtitle>
+                    <company>EBI Consulting</company>
+                    <city>Newark</city>
+                    <state>NJ</state>
+                    <country>US</country>
+                    <formattedLocation>Newark, NJ</formattedLocation>
+                    <source>EBI Consulting</source>
+                    <date>Sat, 31 Oct 2015 06:24:13 GMT</date>
+                    <snippet>An existing professional network in the Retail Commercial Real Estate industries is helpful but not required....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=68e8d41160540c52&amp;qd=m1xOB94XTCm6mLs-w7aewTOvHlczHMA9OWh6KD5D6VHKk3pDTyhHp5-2cqd1J3Scbd_EzAfu4daW0PswHQ0EDMXSmLpUnNc6TgruqvNDUaN3qczy2pnrStJlL7F9p0kPTeYT-3oKkhehNya3GO3AgiV0jK6AT3k-HAt-7I8D_QM1Vu4aS9dH_tvzuwb-B6Jr&amp;indpubnum=4336336693914377&amp;atk=1a7kk8m0v5ud1at3</url>
+                    <onmousedown>indeed_clk(this, '8756');</onmousedown>
+                    <jobkey>68e8d41160540c52</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>Newark, NJ</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Wireless Retail Sales Manager</jobtitle>
+                    <company>T-Mobile Express</company>
+                    <city>Newark</city>
+                    <state>NJ</state>
+                    <country>US</country>
+                    <formattedLocation>Newark, NJ</formattedLocation>
+                    <source>T-Mobile Express</source>
+                    <date>Mon, 14 Sep 2015 09:39:49 GMT</date>
+                    <snippet>Our Retail Store Sales Manager are in the best position to deliver T-Mobile Express Stores &amp;quot;staying connected&amp;quot; Retail promise to our customers....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=d053f13eed2a8f9c&amp;qd=m1xOB94XTCm6mLs-w7aewTOvHlczHMA9OWh6KD5D6VHKk3pDTyhHp5-2cqd1J3Scbd_EzAfu4daW0PswHQ0EDMXSmLpUnNc6TgruqvNDUaN3qczy2pnrStJlL7F9p0kPTeYT-3oKkhehNya3GO3AgiV0jK6AT3k-HAt-7I8D_QM1Vu4aS9dH_tvzuwb-B6Jr&amp;indpubnum=4336336693914377&amp;atk=1a7kk8m0v5ud1at3</url>
+                    <onmousedown>indeed_clk(this, '8756');</onmousedown>
+                    <jobkey>d053f13eed2a8f9c</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>Newark, NJ</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Retail Sales Trainer</jobtitle>
+                    <company>T-Mobile Express</company>
+                    <city>Newark</city>
+                    <state>NJ</state>
+                    <country>US</country>
+                    <formattedLocation>Newark, NJ</formattedLocation>
+                    <source>T-Mobile Express</source>
+                    <date>Sat, 12 Sep 2015 09:25:27 GMT</date>
+                    <snippet>Sales and sales management experience with a customer-focused, operationally excellent retail environment&#8212;Wireless experience preferred....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=c77512d7d50ab21f&amp;qd=m1xOB94XTCm6mLs-w7aewTOvHlczHMA9OWh6KD5D6VHKk3pDTyhHp5-2cqd1J3Scbd_EzAfu4daW0PswHQ0EDMXSmLpUnNc6TgruqvNDUaN3qczy2pnrStJlL7F9p0kPTeYT-3oKkhehNya3GO3AgiV0jK6AT3k-HAt-7I8D_QM1Vu4aS9dH_tvzuwb-B6Jr&amp;indpubnum=4336336693914377&amp;atk=1a7kk8m0v5ud1at3</url>
+                    <onmousedown>indeed_clk(this, '8756');</onmousedown>
+                    <jobkey>c77512d7d50ab21f</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>Newark, NJ</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Wireless Retail Sales Associate</jobtitle>
+                    <company>T-Mobile Express</company>
+                    <city>Newark</city>
+                    <state>NJ</state>
+                    <country>US</country>
+                    <formattedLocation>Newark, NJ</formattedLocation>
+                    <source>T-Mobile Express</source>
+                    <date>Mon, 14 Sep 2015 09:39:30 GMT</date>
+                    <snippet>Our Retail Store Sales Associates /Professionals are in the best position to deliver T-Mobile Express Stores &amp;quot;staying connected&amp;quot; Retail promise to our customers...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=46ae0fe2ce7dc87b&amp;qd=m1xOB94XTCm6mLs-w7aewTOvHlczHMA9OWh6KD5D6VHKk3pDTyhHp5-2cqd1J3Scbd_EzAfu4daW0PswHQ0EDMXSmLpUnNc6TgruqvNDUaN3qczy2pnrStJlL7F9p0kPTeYT-3oKkhehNya3GO3AgiV0jK6AT3k-HAt-7I8D_QM1Vu4aS9dH_tvzuwb-B6Jr&amp;indpubnum=4336336693914377&amp;atk=1a7kk8m0v5ud1at3</url>
+                    <onmousedown>indeed_clk(this, '8756');</onmousedown>
+                    <jobkey>46ae0fe2ce7dc87b</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>Newark, NJ</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Sales Director - IT Retail &amp; Manufacturing - NJ/Boston</jobtitle>
+                    <company>Rich Water Consulting Inc</company>
+                    <city>Newark</city>
+                    <state>NJ</state>
+                    <country>US</country>
+                    <formattedLocation>Newark, NJ</formattedLocation>
+                    <source>Indeed</source>
+                    <date>Wed, 02 Dec 2015 23:10:29 GMT</date>
+                    <snippet>Selling IT services to Manufacturing and Retail:. We are looking for results driven individuals / self-starters that are eager to drive the success of Retail...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=9ffd3ce8d6f8f226&amp;qd=m1xOB94XTCm6mLs-w7aewTOvHlczHMA9OWh6KD5D6VHKk3pDTyhHp5-2cqd1J3Scbd_EzAfu4daW0PswHQ0EDMXSmLpUnNc6TgruqvNDUaN3qczy2pnrStJlL7F9p0kPTeYT-3oKkhehNya3GO3AgiV0jK6AT3k-HAt-7I8D_QM1Vu4aS9dH_tvzuwb-B6Jr&amp;indpubnum=4336336693914377&amp;atk=1a7kk8m0v5ud1at3</url>
+                    <onmousedown>indeed_clk(this, '8756');</onmousedown>
+                    <jobkey>9ffd3ce8d6f8f226</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>Newark, NJ</formattedLocationFull>
+                    <formattedRelativeTime>25 days ago</formattedRelativeTime>
+                    <noUniqueUrl>true</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Bilingual Wireless Retail Sales Associate</jobtitle>
+                    <company>T-Mobile Express</company>
+                    <city>Newark</city>
+                    <state>NJ</state>
+                    <country>US</country>
+                    <formattedLocation>Newark, NJ</formattedLocation>
+                    <source>T-Mobile Express</source>
+                    <date>Mon, 14 Sep 2015 09:39:44 GMT</date>
+                    <snippet>Our Retail Store Sales Associates /Professionals are in the best position to deliver T-Mobile Express Stores &amp;quot;staying connected&amp;quot; Retail promise to our customers...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=005d8f51fe493940&amp;qd=m1xOB94XTCm6mLs-w7aewTOvHlczHMA9OWh6KD5D6VHKk3pDTyhHp5-2cqd1J3Scbd_EzAfu4daW0PswHQ0EDMXSmLpUnNc6TgruqvNDUaN3qczy2pnrStJlL7F9p0kPTeYT-3oKkhehNya3GO3AgiV0jK6AT3k-HAt-7I8D_QM1Vu4aS9dH_tvzuwb-B6Jr&amp;indpubnum=4336336693914377&amp;atk=1a7kk8m0v5ud1at3</url>
+                    <onmousedown>indeed_clk(this, '8756');</onmousedown>
+                    <jobkey>005d8f51fe493940</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>Newark, NJ</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Entry-Level Sales and Marketing Salesperson</jobtitle>
+                    <company>Summit Retail Solutions</company>
+                    <city>Harrison</city>
+                    <state>NJ</state>
+                    <country>US</country>
+                    <formattedLocation>Harrison, NJ</formattedLocation>
+                    <source>Summit Retail Solutions</source>
+                    <date>Tue, 15 Dec 2015 11:06:46 GMT</date>
+                    <snippet>Strong desire to work within the retail / sales / marketing fields. Ability to punctually and reliably work retail hours and holidays:....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=f163ee4f43bb0861&amp;qd=m1xOB94XTCm6mLs-w7aewTOvHlczHMA9OWh6KD5D6VHKk3pDTyhHp5-2cqd1J3Scbd_EzAfu4daW0PswHQ0EDMXSmLpUnNc6TgruqvNDUaN3qczy2pnrStJlL7F9p0kPTeYT-3oKkhehNya3GO3AgiV0jK6AT3k-HAt-7I8D_QM1Vu4aS9dH_tvzuwb-B6Jr&amp;indpubnum=4336336693914377&amp;atk=1a7kk8m0v5ud1at3</url>
+                    <onmousedown>indeed_clk(this, '8756');</onmousedown>
+                    <jobkey>f163ee4f43bb0861</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>Harrison, NJ</formattedLocationFull>
+                    <formattedRelativeTime>13 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+</results>
+
+    </response>

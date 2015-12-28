@@ -42,9 +42,9 @@ def job_search(query, location, radius, response_format):
         return results
 
 if __name__ == '__main__':
-        location = str(raw_input('enter a city. default is "New York, NY"')) or 'New York, NY'
-        radius = str(raw_input('enter a radius. default is "2"')) or "2"
-        query = str(raw_input('enter search criteria. default is "((Retail) OR (Salespersons))"')) or "((Retail) OR (Salespersons))"
+        location = str(raw_input('enter a city. hit enter for default of "New York, NY" ')) or 'New York, NY'
+        radius = str(raw_input('enter a radius. hit enter for default of "2" ')) or "2"
+        query = str(raw_input('enter search criteria. hit enter for default of "((Retail) OR (Salespersons))" ')) or "((Retail) OR (Salespersons))"
         data = job_search(query, location, radius, 'xml')
 
         results_name = "location_{}_radius_{}_query_{}".format(location, radius, query)
